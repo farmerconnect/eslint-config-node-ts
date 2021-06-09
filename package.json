@@ -1,5 +1,5 @@
 {
-  "name": "@farmerconnect/eslint-node-config-ts",
+  "name": "@farmerconnect/eslint-config-node-ts",
   "version": "1.0.0",
   "description": "Ruleset of ESLint for backend, Nodejs-based Typescript projects used across farmer connect",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farmerconnect/eslint-node-config-ts.git"
+    "url": "git+https://github.com/farmerconnect/eslint-config-node-ts.git"
   },
   "keywords": [
     "eslint",
@@ -16,9 +16,9 @@
   ],
   "author": "",
   "bugs": {
-    "url": "https://github.com/farmerconnect/eslint-node-config-ts/issues"
+    "url": "https://github.com/farmerconnect/eslint-config-node-ts/issues"
   },
-  "homepage": "https://github.com/farmerconnect/eslint-node-config-ts#readme",
+  "homepage": "https://github.com/farmerconnect/eslint-config-node-ts#readme",
   "license": "Apache-2.0",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.26.1",
@@ -26,7 +26,6 @@
     "eslint": "^7.28.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "jest": "^27.0.4",
     "prettier": "^2.3.1"
   },
   "devDependencies": {
@@ -35,7 +34,6 @@
     "eslint": "^7.28.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "jest": "^27.0.4",
     "prettier": "^2.3.1"
   }
 }

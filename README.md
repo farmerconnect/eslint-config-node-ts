@@ -5,8 +5,8 @@ ESLint and Prettier rulesets used across backend, NodeJS and Typescript-based pr
 # Install
 
 ```
-yarn add @farmerconnect/eslint-node-config-ts
-npx install-peerdeps --dev @farmerconnect/eslint-node-config-ts
+yarn add @farmerconnect/eslint-config-node-ts
+npx install-peerdeps --dev @farmerconnect/eslint-config-node-ts
 ```
 
 # How to use
@@ -16,7 +16,7 @@ After installation, create a `.eslintrc` file in the root folder with:
 ```
 {
   'extends': [
-    '@farmerconnect/eslint-node-config-ts'
+    '@farmerconnect/eslint-config-node-ts'
   ]
 }
 ```
@@ -25,4 +25,4 @@ After installation, create a `.eslintrc` file in the root folder with:
 
 After installation,
 
-Check the [LICENSE](https://github.com/farmerconnect/eslint-node-config-ts/blob/main/LICENSE) file
+Check the [LICENSE](https://github.com/farmerconnect/eslint-config-node-ts/blob/main/LICENSE) file
